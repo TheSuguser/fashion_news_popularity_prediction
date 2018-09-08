@@ -40,6 +40,6 @@ The source code of the MSc Project
 
   - Multi-Input [[Code](https://github.com/TheSuguser/fashion_news_popularity_prediction/blob/master/deep_models/multi-input/train_keras.ipynb)]
 
-- [Result]()
+- [Result](https://github.com/TheSuguser/fashion_news_popularity_prediction/tree/master/result/deep_models)
 
-- [Visualisation]()
+- [Visualisation of the result](https://github.com/TheSuguser/fashion_news_popularity_prediction/blob/master/visualisation/dl_visualisation.ipynb)
